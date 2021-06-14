@@ -1,4 +1,6 @@
 # Metro System Database Project
+[![Hits-of-Code](https://hitsofcode.com/github/jishanshaikh4/metro-system-database-project)](https://hitsofcode.com/github/jishanshaikh4/metro-system-database-project/view)
+
 
 # Sections
 - [Abstract](https://github.com/AnkitJishan/Metro-System-Database-Project#abstract)
